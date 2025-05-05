@@ -82,3 +82,15 @@ O(b^d), same as time in worst case (since it stores all generated nodes in memor
 ---
 
 Let me know if you want complexity comparisons in a table or need explanation for any of these.
+
+
+kruskal:
+Number of vertices: 4
+Number of edges: 5
+Edges:
+0 1 10
+0 2 6
+0 3 5
+1 3 15
+2 3 4
+
