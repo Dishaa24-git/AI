@@ -53,7 +53,7 @@ O(b^d), same as time in worst case (since it stores all generated nodes in memor
 * **Time Complexity:**
 
   * Using Min-Heap + Adjacency List: O(E log V)
-  * Using Adjacency Matrix: O(V²)
+  * Using Adjacency Matrix: O(V²)  //without heap
 * **Space Complexity:** O(V + E)
 
 ---
